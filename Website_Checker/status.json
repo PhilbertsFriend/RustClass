@@ -1,0 +1,8 @@
+[
+  {
+    "url": "https://example.com",
+    "status": 200,
+    "response_time_ms": 67,
+    "timestamp": "SystemTime { tv_sec: 1747266856, tv_nsec: 612258570 }"
+  }
+]
